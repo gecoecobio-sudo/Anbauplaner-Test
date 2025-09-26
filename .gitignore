@@ -1,0 +1,6 @@
+market-garden-app/node_modules/
+market-garden-app/.next/
+market-garden-app/out/
+market-garden-app/.vercel/
+market-garden-app/.env*
+market-garden-app/coverage/
